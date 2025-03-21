@@ -1,0 +1,147 @@
+Question: Who is the president of the United States?
+Answer: The president of the United States is Joe Biden.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Who wrote 'Hamlet'?
+Answer: 'Hamlet' was written by William Shakespeare.
+
+Question: What is the largest planet in our solar system?
+Answer: The largest planet in our solar system is Jupiter.
+
+Question: How many continents are there on Earth?
+Answer: There are seven continents on Earth.
+
+Question: What is the chemical symbol for water?
+Answer: The chemical symbol for water is H2O.
+
+Question: Who painted the Mona Lisa?
+Answer: The Mona Lisa was painted by Leonardo da Vinci.
+
+Question: What is the speed of light?
+Answer: The speed of light is approximately 299,792,458 meters per second.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the square root of 144?
+Answer: The square root of 144 is 12.
+
+Question: Who discovered gravity?
+Answer: Gravity was discovered by Sir Isaac Newton.
+
+Question: What is the boiling point of water in Celsius?
+Answer: The boiling point of water in Celsius is 100°C.
+
+Question: What is the currency of the United Kingdom?
+Answer: The currency of the United Kingdom is the British Pound (£).
+
+Question: Who was the first man to walk on the moon?
+Answer: The first man to walk on the moon was Neil Armstrong.
+
+Question: What is the smallest prime number?
+Answer: The smallest prime number is 2.
+
+Question: What is the capital of Canada?
+Answer: The capital of Canada is Ottawa.
+
+Question: Who discovered penicillin?
+Answer: Penicillin was discovered by Alexander Fleming.
+
+Question: What is the longest river in the world?
+Answer: The longest river in the world is the Nile River.
+
+Question: What is the largest ocean on Earth?
+Answer: The largest ocean on Earth is the Pacific Ocean.
+
+Question: How many bones are in the adult human body?
+Answer: There are 206 bones in the adult human body.
+
+Question: What is the capital of India?
+Answer: The capital of India is New Delhi.
+
+Question: What is the national language of Brazil?
+Answer: The national language of Brazil is Portuguese.
+
+Question: Who developed the theory of relativity?
+Answer: The theory of relativity was developed by Albert Einstein.
+
+Question: What is the capital of Australia?
+Answer: The capital of Australia is Canberra.
+
+Question: How many sides does a hexagon have?
+Answer: A hexagon has six sides.
+
+Question: What is the freezing point of water in Fahrenheit?
+Answer: The freezing point of water in Fahrenheit is 32°F.
+
+Question: Who invented the telephone?
+Answer: The telephone was invented by Alexander Graham Bell.
+
+Question: What is the tallest mountain in the world?
+Answer: The tallest mountain in the world is Mount Everest.
+
+Question: What gas do plants absorb during photosynthesis?
+Answer: Plants absorb carbon dioxide (CO2) during photosynthesis.
+
+Question: What is the capital of Russia?
+Answer: The capital of Russia is Moscow.
+
+Question: How many letters are in the English alphabet?
+Answer: There are 26 letters in the English alphabet.
+
+Question: What is the main ingredient in chocolate?
+Answer: The main ingredient in chocolate is cocoa.
+
+Question: What is the capital of South Africa?
+Answer: South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein.
+
+Question: What is the hardest natural substance on Earth?
+Answer: The hardest natural substance on Earth is diamond.
+
+Question: What is the national animal of China?
+Answer: The national animal of China is the Giant Panda.
+
+Question: How many hearts does an octopus have?
+Answer: An octopus has three hearts.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the chemical formula for table salt?
+Answer: The chemical formula for table salt is NaCl.
+
+Question: What is the main gas found in the Earth's atmosphere?
+Answer: The main gas found in the Earth's atmosphere is nitrogen (78%).
+
+Question: Who was the first President of the United States?
+Answer: The first President of the United States was George Washington.
+
+Question: What is the name of the closest star to Earth?
+Answer: The closest star to Earth is the Sun.
+
+Question: What is the longest bone in the human body?
+Answer: The longest bone in the human body is the femur.
+
+Question: Who wrote 'Pride and Prejudice'?
+Answer: 'Pride and Prejudice' was written by Jane Austen.
+
+Question: How many planets are in our solar system?
+Answer: There are eight planets in our solar system.
+
+Question: What is the name of the process by which plants make their own food?
+Answer: The process by which plants make their own food is called photosynthesis.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the largest desert in the world?
+Answer: The largest desert in the world is the Antarctic Desert.
+
+Question: What do bees collect from flowers to make honey?
+Answer: Bees collect nectar from flowers to make honey.
+
+Question: How many time zones are there in the world?
+Answer: There are 24 time zones in the world.
+
